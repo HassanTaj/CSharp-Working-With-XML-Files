@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working-WIth-XML-Files", "Working-WIth-XML-Files\Working-WIth-XML-Files.csproj", "{F38B1CDF-4FAD-40E1-AE56-9010ECA3BBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38B1CDF-4FAD-40E1-AE56-9010ECA3BBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38B1CDF-4FAD-40E1-AE56-9010ECA3BBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38B1CDF-4FAD-40E1-AE56-9010ECA3BBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38B1CDF-4FAD-40E1-AE56-9010ECA3BBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC880FB8-B79F-4D2E-932B-0BCE72B9D88F}
+	EndGlobalSection
+EndGlobal
