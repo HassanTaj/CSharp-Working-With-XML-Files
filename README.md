@@ -1,2 +1,2 @@
-# CSharp-Working-With-XML-Files
-SImple demo for working with xml using c#
+# CSharp-Working-With-XML-Documents
+Simple demo for working with xml documents using c# console.
